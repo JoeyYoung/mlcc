@@ -25,9 +25,9 @@ See `./proto/nccl_patch` for the customizations of nccl.
 use `sh ./proto/rebuild_ccp.sh` to rebuild if the datapath program changes.
 
 ## Start
-On a dedicated server, use `./proto/switch.py` to start an emulated switch with rpc services.
+On a dedicated server, use `switch.py` to start an emulated switch with rpc services.
 
-On each server, run distributed agent with `./proto/runccp.py`.
+On each server, run distributed agent with `runccp.py`.
 
 Inject workloads with template scripts in `./proto/workloads`.
 
