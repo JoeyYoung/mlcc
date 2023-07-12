@@ -1,0 +1,13 @@
+[package]
+name = "ccp_bbr"
+version = "0.2.2"
+authors = [""]
+
+[dependencies]
+clap = "2.29"
+fnv = "1"
+portus = "0.5.4"
+slog = "2"
+slog-async = "2"
+slog-term = "2"
+time = "0.1"

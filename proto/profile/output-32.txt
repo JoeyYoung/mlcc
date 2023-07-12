@@ -1,0 +1,967 @@
+Waiting for first packet to arrive (see sourceforge.net bug 1019381)
+Adding local address: 10.28.1.18
+Adding local address: fe80::ee0d:9aff:fe44:2bf8
+Ethernet link detected
+
+Refreshing:
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	343.965	0.876562
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	687.943	1.90781
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	1036.68	2.70703
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	1406.12	3.4418
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	1731.83	4.42148
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	2064.48	5.24648
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	2421.19	5.98125
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	2765.15	6.56133
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	3134.65	7.24453
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	3489.94	8.18555
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	3831.64	9.11367
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	4188.35	9.93867
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	4539.99	10.5703
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	4883.95	11.4855
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	5223.68	12.3492
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	5565.94	13.2516
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	5905.67	14.1281
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	6234.35	14.9789
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	6582.59	15.4945
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	6909.58	16.3711
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	7236.56	17.209
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	7631.51	17.7246
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	7975.48	18.5496
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	8320.33	19.2199
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	8651.55	20.0449
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	8971.85	20.8441
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	9315.81	21.566
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	9647.04	22.391
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	9996.27	23.1258
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	10362.5	23.6055
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	10750.6	24.5723
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	11144.2	25.1523
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	11526.4	25.7195
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	11857.6	26.5445
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	12201.6	27.1375
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	12571	27.7434
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	12940.5	28.3234
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	13309	28.7262
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	13665.7	29.4223
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	14013.3	30.1699
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	14370	30.7629
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	14726.7	31.3687
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	15096.2	31.923
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	15503.8	32.2066
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	15873.3	32.8898
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	16268.3	33.2766
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	16637.7	33.8824
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	16994.4	34.4883
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	17363.9	35.0941
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	17720.6	35.6742
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	18102.7	36.4477
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	18459.5	37.002
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	18790.7	37.8527
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	19147.4	38.4457
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	19504.1	39.0258
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	19860.8	39.6188
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	20233.6	40.3148
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	20577.6	41.2172
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	20921.6	42.1453
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	21265.5	43.0734
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	21609.5	43.95
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	21978.9	44.543
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	22348.4	45.123
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	22717.8	45.7418
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	23074.5	46.3863
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	23444	46.9793
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	23800.7	47.5852
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	24153.7	48.4746
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	24497.7	49.2996
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	24867.2	50.0215
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	25258.2	50.7949
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	25607.5	51.7359
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	25964.2	52.3289
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	26333.7	52.9477
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	26703.1	53.5406
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	27059.8	54.1465
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	27429.3	54.9328
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	27760.5	55.7449
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	28142.7	56.209
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	28512.2	57.0469
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	28863.2	57.9234
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	29219.9	58.4906
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	29576.6	59.0836
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	29933.3	59.6766
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	30302.8	60.2566
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	30659.5	60.8496
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	31028.9	61.391
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	31398.4	61.9969
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	31742.3	62.8992
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	32099	63.8273
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	32443	64.7168
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	32774.2	65.4387
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	33156.4	66.0316
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	33539.9	66.3965
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	33883.8	67.2086
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	34275.4	67.9563
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	34657.9	68.7297
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	35014.6	69.4129
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	35384	69.9027
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	35715.3	70.702
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	36081.3	71.3852
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	36471.5	72.0684
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	36805.8	72.8934
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	37175.3	73.4863
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	37519.3	74.2469
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	37871.2	75.1105
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	38227.9	75.7164
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	38597.4	76.3223
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	38954.1	77.1086
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	39298.1	77.8434
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	39637.3	78.7457
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	39981.2	79.5707
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	40350.7	80.1379
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	40720.1	80.8469
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	41059	81.7105
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	41399.3	82.5098
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	41738.2	83.3605
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	42069.4	84.1855
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	42426.2	84.7914
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	42770.1	85.5648
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	43114.1	86.2867
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	43458.1	86.8668
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	43793	87.7562
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	44162.4	88.2848
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	44506.4	89.2645
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	44841.6	90.1797
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	45223.8	90.8371
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	45555	91.6621
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	45889.9	92.4871
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	46225.4	93.3637
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	46569.4	94.15
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	46926.1	95.0266
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	47270.1	95.684
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	47601.3	96.509
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	47945.3	97.4242
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	48279.9	98.3008
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	48614.5	99.2418
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	48984	99.9895
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	49328	100.814
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	49671.9	101.743
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	50015.9	102.671
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	50347.1	103.599
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	50691.1	104.527
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	51031.1	105.416
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	51400.6	106.203
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	51731.8	107.028
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	52075.7	107.853
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	52419.7	108.678
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	52750.9	109.451
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	53107.6	110.173
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	53445.1	111.101
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	53776.3	112.029
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	54113.8	112.854
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	54492.4	113.421
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	54823.7	114.259
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	55167.6	115.033
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	55524.4	115.548
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	55902.5	116.193
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	56246.5	117.018
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	56581.4	117.843
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	56925.3	118.565
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	57282.1	119.016
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	57619.2	119.841
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	57963.5	120.537
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	58307.5	121.465
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	58651.2	122.393
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	58982.4	123.27
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	59326.4	124.198
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	59657.9	125.023
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	59990.3	125.539
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	60334.2	126.518
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	60710.3	127.15
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	61054.3	127.73
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	61417.7	128.542
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	61754.6	129.47
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	62111.3	130.05
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	62456	130.979
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	62800	132.01
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	63143.9	132.835
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	63487.9	133.621
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	63831.9	134.446
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	64188.6	134.859
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	64552.4	135.58
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	64885.1	136.612
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	65232.1	137.269
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	65576.1	138.197
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	65952.6	138.855
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	66283.9	139.86
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	66615.4	140.608
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	66949.2	141.433
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	67318.6	141.884
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	67662.6	142.683
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	67999.2	143.508
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	68343.2	144.333
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	68674.4	145.158
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	69018.4	146.061
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	69369.9	146.589
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	69726.4	147.517
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	70068.6	148.381
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	70402.7	149.206
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	70745	150.031
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	71088.9	150.856
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	71428.4	151.681
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	71772.3	152.557
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	72154.5	153.125
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	72498.5	153.95
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	72829.7	154.775
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	73201.4	155.445
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	73552.8	156.177
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	73884.6	157.105
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	74252.6	157.969
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	74583.9	158.807
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	74913.7	159.671
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	75245.5	160.496
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	75588	161.424
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	75919.3	162.249
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	76250.5	162.958
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	76594.5	163.512
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	76951.2	164.028
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	77272.8	164.814
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	77581.8	165.72
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	77951.2	166.403
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	78295.2	167.228
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	78626.4	168.053
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	78983.1	168.504
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	79327.1	169.29
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	79709.3	170.141
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	80078.5	170.914
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	80413.9	171.739
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	80807.7	172.577
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	81182.7	172.92
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	81526.7	173.68
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	81908.9	174.35
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	82293.9	175.059
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	82663.4	175.639
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	83020.1	176.245
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	83389.5	176.787
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	83752.6	177.418
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	84137.7	178.089
+unknown TCP/0/0	0	0
+
+Refreshing:
+iperf/18721/1008	84494.4	178.746
+unknown TCP/0/0	0	0

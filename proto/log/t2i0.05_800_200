@@ -1,0 +1,108 @@
+[  3] local 202.45.128.232 port 44310 connected with 202.45.128.234 port 5001
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.00-0.05 sec  4.88 MBytes   818 Mbits/sec  39/0          0      141K/332 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.05-0.10 sec  1.25 MBytes   210 Mbits/sec  10/0          0      141K/384 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.10-0.15 sec  4.62 MBytes   776 Mbits/sec  37/0          0      141K/331 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.15-0.20 sec  1.12 MBytes   189 Mbits/sec  9/0          0      141K/450 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.20-0.25 sec  4.62 MBytes   776 Mbits/sec  37/0          0      141K/342 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.25-0.30 sec  1.50 MBytes   252 Mbits/sec  12/0          0      141K/410 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.30-0.35 sec  4.38 MBytes   734 Mbits/sec  35/0          0      141K/320 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.35-0.40 sec  1.38 MBytes   231 Mbits/sec  11/0          0      141K/520 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.40-0.45 sec  4.75 MBytes   797 Mbits/sec  38/0          0      141K/323 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.45-0.50 sec  1.25 MBytes   210 Mbits/sec  10/0          0      141K/460 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.50-0.55 sec  4.38 MBytes   734 Mbits/sec  35/0          0      141K/463 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.55-0.60 sec  1.50 MBytes   252 Mbits/sec  12/0          0      141K/493 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.60-0.65 sec  4.62 MBytes   776 Mbits/sec  37/0          0      141K/310 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.65-0.70 sec  1.25 MBytes   210 Mbits/sec  10/0          0      141K/395 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.70-0.75 sec  4.25 MBytes   713 Mbits/sec  34/0          0      141K/362 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.75-0.80 sec  1.62 MBytes   273 Mbits/sec  13/0          0      141K/391 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.80-0.85 sec  4.75 MBytes   797 Mbits/sec  38/0          0      141K/304 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.85-0.90 sec  1.12 MBytes   189 Mbits/sec  9/0          0      141K/502 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.90-0.95 sec  4.38 MBytes   734 Mbits/sec  35/0          0      141K/694 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 0.95-1.00 sec  1.75 MBytes   294 Mbits/sec  14/0          0      141K/494 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.00-1.05 sec  4.38 MBytes   734 Mbits/sec  35/0          0      141K/331 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.05-1.10 sec  1.38 MBytes   231 Mbits/sec  11/0          0      141K/473 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.10-1.15 sec  4.50 MBytes   755 Mbits/sec  36/0          0      141K/438 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.15-1.20 sec  1.38 MBytes   231 Mbits/sec  11/0          0      141K/389 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.20-1.25 sec  4.38 MBytes   734 Mbits/sec  35/0          0      141K/447 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.25-1.30 sec  1.50 MBytes   252 Mbits/sec  12/0          0      141K/340 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.30-1.35 sec  4.25 MBytes   713 Mbits/sec  34/0          0      141K/441 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.35-1.40 sec  1.75 MBytes   294 Mbits/sec  14/0          0      141K/530 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.40-1.45 sec  4.00 MBytes   671 Mbits/sec  32/0          0      141K/337 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.45-1.50 sec  1.88 MBytes   315 Mbits/sec  15/0          0      141K/622 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.50-1.55 sec  4.25 MBytes   713 Mbits/sec  34/0          0      141K/280 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.55-1.60 sec  1.50 MBytes   252 Mbits/sec  12/0          0      141K/483 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.60-1.65 sec  4.62 MBytes   776 Mbits/sec  37/0          0      141K/380 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.65-1.70 sec  1.62 MBytes   273 Mbits/sec  13/0          0      141K/380 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.70-1.75 sec  4.25 MBytes   713 Mbits/sec  34/0          0      141K/284 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.75-1.80 sec  1.50 MBytes   252 Mbits/sec  12/0          0      141K/406 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.80-1.85 sec  4.25 MBytes   713 Mbits/sec  34/0          0      141K/384 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.85-1.90 sec  1.88 MBytes   315 Mbits/sec  15/0          0      141K/444 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.90-1.95 sec  4.00 MBytes   671 Mbits/sec  32/0          0      141K/454 us
+[ ID] Interval        Transfer    Bandwidth       Write/Err  Rtry    Cwnd/RTT
+[  3] 1.95-2.00 sec  1.88 MBytes   315 Mbits/sec  15/0          0      141K/404 us
+
+
+
+
+Oct 06 18:03:53.175 INFO Successfully receive arguments for RunCCP.
+Oct 06 18:03:53.175 INFO Configured RunCCP, time_slot_interval(ms): 50, ipc: netlink
+Oct 06 18:03:53.175 INFO starting CCP, ipc: netlink, algorithm: mlcc
+Oct 06 18:03:56.975 INFO Report for on time slot, inflight bytes: 85432, inflight packets: 59, rtt (us): 893
+Oct 06 18:03:57.025 INFO Report for on time slot, inflight bytes: 11584, inflight packets: 8, rtt (us): 186
+Oct 06 18:03:57.075 INFO Report for on time slot, inflight bytes: 24616, inflight packets: 17, rtt (us): 618
+Oct 06 18:03:57.126 INFO Report for on time slot, inflight bytes: 21720, inflight packets: 15, rtt (us): 121
+Oct 06 18:03:57.176 INFO Report for on time slot, inflight bytes: 79640, inflight packets: 55, rtt (us): 690
+Oct 06 18:03:57.226 INFO Report for on time slot, inflight bytes: 8688, inflight packets: 6, rtt (us): 214
+Oct 06 18:03:57.276 INFO Report for on time slot, inflight bytes: 18824, inflight packets: 13, rtt (us): 532
+Oct 06 18:03:57.327 INFO Report for on time slot, inflight bytes: 21720, inflight packets: 15, rtt (us): 115
+Oct 06 18:03:57.377 INFO Report for on time slot, inflight bytes: 108600, inflight packets: 75, rtt (us): 675
+Oct 06 18:03:57.427 INFO Report for on time slot, inflight bytes: 21720, inflight packets: 15, rtt (us): 113
+Oct 06 18:03:57.477 INFO Report for on time slot, inflight bytes: 104256, inflight packets: 72, rtt (us): 960
+Oct 06 18:03:57.527 INFO Report for on time slot, inflight bytes: 5792, inflight packets: 4, rtt (us): 231
+Oct 06 18:03:57.577 INFO Report for on time slot, inflight bytes: 137560, inflight packets: 95, rtt (us): 1346
+Oct 06 18:03:57.628 INFO Report for on time slot, inflight bytes: 11584, inflight packets: 8, rtt (us): 186
+Oct 06 18:03:57.678 INFO Report for on time slot, inflight bytes: 47784, inflight packets: 33, rtt (us): 248
+Oct 06 18:03:57.728 INFO Report for on time slot, inflight bytes: 2896, inflight packets: 2, rtt (us): 261
+Oct 06 18:03:57.778 INFO Report for on time slot, inflight bytes: 97016, inflight packets: 67, rtt (us): 1212
+Oct 06 18:03:57.829 INFO Report for on time slot, inflight bytes: 21720, inflight packets: 15, rtt (us): 98
+Oct 06 18:03:57.879 INFO Report for on time slot, inflight bytes: 59368, inflight packets: 41, rtt (us): 222
+Oct 06 18:03:57.929 INFO Report for on time slot, inflight bytes: 5792, inflight packets: 4, rtt (us): 242

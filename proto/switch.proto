@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_multiple_files = true;
+option java_package = "io.grpc.examples.test";
+option java_outer_classname = "SwitchProto";
+option objc_class_prefix = "Switch";
+
+package switch;
+
+service Channel {
+    // ccp agent fetches new rate
+    rpc fetch (request) returns (reply) {}
+}
+
+message request {
+    // we assume ip pair uniquelly indentify one transmission
+    string srcip = 1;
+    string dstip = 2;
+    // we use 0 for init schedule, 1 for reschedule
+    int32 status = 3;
+    // provide the bottleneck bandwidth observed
+    int64 e = 4;
+}
+
+message reply {
+    // return new rate for this time slot
+    int64 new_rate = 1;
+}

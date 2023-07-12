@@ -1,0 +1,60 @@
+#!/bin/bash
+
+module="ccp"
+device="ccpkp"
+mode="664"
+
+usage() {
+    echo "usage: sudo ./ccp_kernel_load ipc=[0|1]"
+    echo "       netlink  : ipc=0"
+    echo "       char-dev : ipc=1"
+}
+
+if [ "$EUID" -ne 0 ]; then 
+    echo "error: must run as root"
+    usage
+    exit 1
+fi
+
+if [ "$#" -ne 1 ]; then
+    usage
+    exit 1
+fi
+
+if [ -z "lsmod | grep 'ccp'" ]; then
+    echo "CCP kernel module already loaded"
+    exit 1
+fi
+
+make IPC=$(echo $1 | awk -F'=' '{print $NF}') || exit
+
+# invoke insmod with all arguments we got
+# and use a pathname, as insmod doesn't look in . by default
+/sbin/insmod ./$module.ko || ((dmesg | tail) && exit 1)
+
+# only need the following for char-dev
+if [ "$1" = "ipc=1" ];
+then
+
+# Group: since distributions do it differently, look for wheel or use staff
+if grep -q '^staff:' /etc/group; then
+    group="staff"
+else
+    group="wheel"
+fi
+
+# retrieve major number
+major=$(awk "\$2==\"$device\" {print \$1; exit}" /proc/devices)
+
+# Remove stale nodes and replace them, then give gid and perms
+# Usually the script is shorter, it's scull that has several devices in it.
+
+rm -f /dev/${device}
+mknod /dev/${device} c $major 0
+chgrp $group /dev/${device}
+chmod $mode  /dev/${device}
+
+fi
+
+ALLOWED=$(sudo cat /proc/sys/net/ipv4/tcp_allowed_congestion_control)
+echo "${ALLOWED} ccp" | sudo tee /proc/sys/net/ipv4/tcp_allowed_congestion_control

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+module="ccp"
+device="ccpkp"
+
+usage() {
+    echo "usage: sudo ./ccp_kernel_unload"
+}
+
+if [ "$EUID" -ne 0 ]; then 
+    echo "error: must run as root"
+    usage
+    exit 1
+fi
+
+if [ "$#" -ne 0 ]; then
+    usage
+    exit 1
+fi
+
+# invoke rmmod with all arguments we got
+/sbin/rmmod $module $* || exit 1
+
+# Remove stale nodes
+
+rm -f /dev/${device} 
