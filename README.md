@@ -35,6 +35,4 @@ On each server, run distributed agent with `ccp.py`.
 
 Inject workloads with template scripts in `./proto/workloads`.
 
-Tune the network environment with template scripts in `./proto/netenv`
-
 See `./bbr` `./reno-cubic` `./deepcc` for part of baseline implementations.
